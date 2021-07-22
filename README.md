@@ -1,7 +1,7 @@
 to start project:
-cd to project directory
-in the console type npm i
-then type npm start
+cd to project directory,
+in the console type ,npm i
+then type, npm start to run the project
 
 
 
