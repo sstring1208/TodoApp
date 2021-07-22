@@ -1,0 +1,37 @@
+.NewTodoForm {
+  margin-top: 3rem;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.NewTodoForm Button:hover {
+  background: #335bff;
+}
+
+.NewTodoForm label {
+  min-width: 100%;
+  margin-bottom: 0.5rem;
+  font-size: 1.3rem;
+}
+
+.input {
+  flex-grow: 1 !important;
+  
+  background: #f7f1f1  !important;
+
+  padding: 0 1.5em !important;
+  font-size: initial !important;
+}
+
+.button {
+  padding: 0 1.3rem !important;
+  margin-left: 5px !important;
+  cursor: pointer !important;
+  
+}
+
+.button:hover {
+    background: #2C2E43 !important;
+    color: #fff !important;
+  }
+  

@@ -1,0 +1,22 @@
+.Todo {
+    display: flex;
+    margin: 0 -3rem 4px;
+    padding: 1.1rem 3rem;
+    justify-content: space-between;
+    align-items: center;
+    background: rgba(255, 255, 255, 0.1);
+  }
+
+  .Todo-buttons {
+    flex-shrink: 0;
+    padding-left: 0.7em;
+  }
+
+  .buttons{
+    border: none;
+    margin: 0.4em;
+    background: none;
+    -webkit-appearance: none;
+    cursor: pointer;
+    
+  }
