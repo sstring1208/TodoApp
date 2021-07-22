@@ -9,9 +9,9 @@ This project is TodoList App ,in which a user can maintain list by inserting , d
 	
 ## Technologies
 Project is created with:
-* React.js
-* Material UI
-* LocalStorage Hook
+* React.js for frontend
+* Material UI for buttons and icons
+* LocalStorage Hook for localstorage in browser
 	
 ## Setup
 To run this project, install it locally using npm:
